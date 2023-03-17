@@ -1,14 +1,5 @@
 # flutter_chatgpt_sample
 
-FlutterでChatGPT APIを使ってみるサンプルです。
-## プレビュー
-
-<img src="https://user-images.githubusercontent.com/90010509/222900797-379e3678-a3ed-4502-b805-946f3a17a66a.png" width="70%" />
-
-
-## Zennの記事
-https://zenn.dev/toridori/articles/25c310b2dad300
-
 tictacto  ゲームを ChartGPT 4 で作成してみた。
 
 ## その１
