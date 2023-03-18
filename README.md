@@ -35,3 +35,10 @@ minimax.dart をメソッドの実装を省略しないで示してください�
 最初は、先頭部分を表示してください。
 そのあとは "続き表示してください" と質問したら表示をしていくことにします。
 ```
+
+テストコードも作成させてみた。
+
+```text
+https://github.com/katoy/flutter_chatgpt_sample/tree/main/lib/minimax.dart
+のプログラムに対するテストコード例を示してください。
+```
