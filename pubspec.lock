@@ -205,10 +205,10 @@ packages:
     dependency: "direct main"
     description:
       name: dart_openai
-      sha256: a0db4a4d3031a8bc772cdaafbb279dc48a39fe6e36fe35833a051e7c3c684cce
+      sha256: c7ffca3d54c149c50c4ad3fb22e3e328226ecfe6e745865157d4075e75a04545
       url: "https://pub.dev"
     source: hosted
-    version: "1.5.5"
+    version: "1.8.0"
   dart_style:
     dependency: transitive
     description:
@@ -479,10 +479,10 @@ packages:
     dependency: "direct dev"
     description:
       name: riverpod_generator
-      sha256: d7265eac04bad1febff3776b72ac72ec8d0e86efe6b30dc0585899f670bcd26c
+      sha256: ff9362b86fcfb4fefc94e75e1bf741a67259f9ee4aa78dc53770b1cd90e4c3b0
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.0"
+    version: "2.1.0"
   riverpod_lint:
     dependency: "direct dev"
     description:
