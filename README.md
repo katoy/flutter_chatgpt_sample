@@ -1,11 +1,11 @@
 # flutter_chatgpt_sample
 
-tictacto  ゲームを ChartGPT 4 で作成してみた。
+tictactoe  ゲームを ChartGPT 4 で作成してみた。
 
 ## その１
 
 ```text
-人間vsマシンの対戦機能を持つ tictaxtoe のプログラムを flutter 3.7 で書いてください。
+人間vsマシンの対戦機能を持つ tictactoe のプログラムを flutter 3.7 で書いてください。
 プログラムは次の機能を持つようにします。
 * マシンは絶対に人間に負けることは無い。
 * 勝負がついたら その結果を表示する。

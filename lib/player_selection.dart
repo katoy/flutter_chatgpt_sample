@@ -12,10 +12,10 @@ class PlayerSelection extends StatefulWidget {
       : super(key: key);
 
   @override
-  _PlayerSelectionState createState() => _PlayerSelectionState();
+  PlayerSelectionState createState() => PlayerSelectionState();
 }
 
-class _PlayerSelectionState extends State<PlayerSelection> {
+class PlayerSelectionState extends State<PlayerSelection> {
   String _player = 'X';
   bool _playerFirst = true;
 
@@ -23,7 +23,7 @@ class _PlayerSelectionState extends State<PlayerSelection> {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Text('プレイヤー:'),
+        const Text('プレイヤー:'),
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -31,7 +31,7 @@ class _PlayerSelectionState extends State<PlayerSelection> {
             _buildRadioButton('O', false),
           ],
         ),
-        Text('先手:'),
+        const Text('先手:'),
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [

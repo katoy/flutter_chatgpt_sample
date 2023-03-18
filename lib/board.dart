@@ -41,7 +41,7 @@ class BoardState extends State<Board> {
         child: Center(
           child: Text(
             _board[row][col],
-            style: TextStyle(fontSize: 36),
+            style: const TextStyle(fontSize: 36),
           ),
         ),
       ),
